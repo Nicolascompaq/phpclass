@@ -1,1 +1,8 @@
 Question1:
+Difference between webpage and website.
+
+Question2:
+Difference between frontend and backend.(tools for backend amd frontend)
+
+Question3:
+what is git used for and Differences between git and github.

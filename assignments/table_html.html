@@ -6,14 +6,64 @@
     <title>table page</title>
 </head>
 <body>
+    <style>
+        table{
+            width: 100%;
+        border: 3px solid;
+        
+            
+        }
+        tr:nth-last-child(2) ,::after{
+            background-color: #e0c4c4;
+        }
+        tr:nth-last-child(4){
+            background-color: #e0c4c4;
+        }
+        th{
+            background-color: #B4B4B4;
+         border: 1px solid;
+        }
+    </style>
     <table>
-        <td>
-            <th>number</th>
-            <th>first_name</th>
-            <th>second name</th>
-        </td>
-    
+        <tr>
+            <th rowspan="">number</th>
+            <th>first-name</th>
+            <th>second-name</th>
+            <th>email</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>compaq</td>
+            <td>nicolas</td>
+            <td>compaqnicolas@gmali.com</td>
+           
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>codex</td>
+            <td>tech</td>
+            <td>technicolas@gmali.com</td>
+           
+        </tr><tr>
+            <td>3</td>
+            <td>pateral</td>
+            <td>flag</td>
+            <td>pateralnicolas@gmali.com</td>
+           
+        </tr><tr>
+            <td>4</td>
+            <td>compaq</td>
+            <td>nicolas</td>
+            <td>compaqnicolas@gmali.com</td>
+           
+        </tr><tr>
+            <td>5</td>
+            <td>compaq</td>
+            <td>nicolas</td>
+            <td>compaqnicolas@gmali.com</td>
+           
+        </tr>
+    </table>
 
-    </table>  
 </body>
 </html>
