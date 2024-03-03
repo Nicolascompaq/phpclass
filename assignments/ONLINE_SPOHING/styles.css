@@ -1,0 +1,72 @@
+body{
+    margin: auto;
+    background-color:white;
+
+}
+.nav{
+    background-color: #5C774D;
+    width: 100%;
+    height: 14vh;
+    padding-top: 10px;
+    
+}
+.buy{
+    background-color:#FFBF00;
+    border: none;
+    width: 120px;
+    height: 50px;
+    border-radius: 10px;
+    margin:10px 10px 0px 0px;
+    float: right;
+    font-size: 17px;
+    
+}
+#search1{
+    width: 50%;
+    height: 45px;
+background-color:#F0F0F0;
+border: none;
+padding-left: 30px;
+margin-left: 80px;
+font-size:14px ;
+}
+.search{
+    width: 70px;
+    height: 45px;
+    border: none;
+    background-color:rgb(61, 63, 61) ;
+    color: #CF9;
+    font-size: 16px;
+}
+.head{
+    font-size: 53px;
+    padding-left: 7px;
+    font-weight: bold;
+    font-family: OCR A ;
+}
+.head2{
+    font-size:20px ;
+    color: rgb(61, 63, 61);
+}
+.nav2{
+    width: 100%;
+    height:100%;
+    background-color:rgb(61, 63, 61) ;
+    
+    
+}
+aside{
+width: 13%;
+height: 90vh;
+position: absolute;
+top: 13vh;
+}
+li{
+    list-style: none;
+line-height: 40px;
+font-size:20px ;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
