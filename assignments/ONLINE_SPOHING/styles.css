@@ -1,6 +1,7 @@
 body{
     margin: auto;
     background-color:white;
+    overflow-x: hidden;
 
 }
 .nav{
@@ -124,7 +125,7 @@ color: black;
     flex-wrap: wrap;
     grid-column: grid;
     padding-top: 11%;
-    scroll-behavior: inherit;
+    overflow: visible;
 }
 .card{
 width: 30%;
@@ -148,6 +149,20 @@ box-shadow:rgba(61, 63, 61, 0.712) 7px 1px 9px 1px ;
 .platfrom{
     width: 85%;
 margin-top: 40px;
+
+}
+.back{
+    width: 70%;
+    height: 250px;
+    margin-left: 25%;
+    background-image: url(img4.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain ;
+    float:left;
+    position: absolute;
+    margin-top: 5%;
+
 }
 .platfrom :nth-child(1){
     margin-top: 10px;
@@ -202,7 +217,7 @@ margin-top: 40px;
 .platfrom :nth-child(6){
     margin-top: 10px;
     border-left:5px solid rgb(84, 86, 87);
-    background-color:rgba(74, 77, 79, 0.578) ;
+    background-color:rgba(84, 86, 87, 0.452) ;
     text-align: center;
     color: white;
     font-weight: bold;
@@ -214,8 +229,7 @@ margin-top: 40px;
     height: 70px;
     background-color: #CF9;
     text-align: center;
-   
-
+  
 }
 .tel a{
     color: #5c774da0;

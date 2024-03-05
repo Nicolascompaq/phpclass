@@ -4,37 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>table page</title>
+    <link rel="stylesheet" href="bootstrap\css\bootstrap.min.css">
+    
 </head>
 <body>
-    <style>
-        table{
-            width: 100%;
-        border: 3px solid;
-        
-            
-        }
-        tr:nth-last-child(2) ,::after{
-            background-color: #e0c4c4;
-        }
-        tr:nth-last-child(4){
-            background-color: #e0c4c4;
-        }
-        th{
-            background-color: #B4B4B4;
-         border: 1px solid;
-        }
-    </style>
-    <table>
-        <tr>
+    <div class="container">
+       
+    <table class="table table-striped table-danger table-hover table-bordered ">
+        <tr class="bg-info">
             <th rowspan="">number</th>
             <th>first-name</th>
             <th>second-name</th>
             <th>email</th>
         </tr>
-        <tr>
+        <tr >
             <td>1</td>
             <td></td>
-            <td></td>
+            <td class=""></td>
             <td></td>
            
         </tr>
@@ -56,7 +42,7 @@
             <td></td>
             <td></td>
            
-        </tr><tr>
+        </tr><tr >
             <td>5</td>
             <td></td>
             <td></td>
@@ -64,6 +50,9 @@
            
         </tr>
     </table>
+
+</div>
+    <script type="Text/script" src="bootstrap\js\bootstrap.min.js"></script>
 
 </body>
 </html>
