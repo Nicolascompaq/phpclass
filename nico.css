@@ -18,7 +18,7 @@ p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .p1{
-    text-align: center;
+    text-align: none;
     text-decoration: overline;
     color: rgb(168, 94, 94);
 }
@@ -36,7 +36,7 @@ h1,h2{
     letter-spacing: 5px;
 
 }
-li:nth-child(3){
+li:nth-child(){
     color: blueviolet;
     font-size: larger;
     font-weight: bold;
