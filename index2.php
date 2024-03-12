@@ -41,7 +41,17 @@
 </div>
 <div class="row">
     <div class="col-6 text-info align-content-start">
-
+<?php
+$more_INT = 333;
+$min_int= -22;
+$all_int= $more_INT+$min_int;
+if ($all_int>=32){
+    echo"$all_int";
+}
+else{
+   echo ("not equal");
+} 
+?>
  
 <p class="p1">This is paragraph one</p>
 <p class="p2">This is paragraph two</p>
