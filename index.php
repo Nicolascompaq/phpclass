@@ -10,29 +10,21 @@
 
 </head>
 <body>
-    <div class="container-{breakpoint}">
+<script>
+  var name = document.getElementById('greet');
+    var my = prompt("whats your name");
+    let hello= "greetings" ;
+    var name = hello+my ;
+   document.write(name);
+  </script>
+            <p id="name" ></p>
 
-        <nav class="nav navbar-expand-sm  bg-dark  justify-content-end navbar-dark mb-5 ">
-            <a class="navbar-brand" href="#">
-                <img src="honda-removebg-preview.png"alt="Bootstrap" width="30" height="24">
-              </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-            <ul class="navbar-nav  ">
-               <li class="nav-item bg-dark" >  <a class="nav-link"  href="first_code.html">first-html</a></li>
-               <li  class="nav-item bg-dark"> <a  class="nav-link"    href="index2.html">index2</a></li>
-               <li  class="nav-item bg-dark"><a  class="nav-link" href="lists.html">list</a></li>
-               <li  class="nav-item bg-dark"><a  class="nav-link" href="contact_page.html">contact</a></li>
-            </ul>
-      </div>
-        </nav>
-        
+    <div class="container-{breakpoint}">
+<?php include("nav.html"); ?>
+
     <div class="row ">
         <div class="col-5">
-        
+        <p id="greet"></p>
             <div class="card bg-warning ms-3" style="width: 18em;  ">
                 <img class="card-img-top d-block w-auto " src="upper 1.jpg"  style="height: 18em;">
             <h2 class="card-title">For details</h2>
@@ -56,7 +48,8 @@
            
             <p>
                 welcome to our website
-           
+      
+    </script>
             </p>
             <b style="color: red; text-decoration: underline; ">we are located in kampala</b>
             <br>

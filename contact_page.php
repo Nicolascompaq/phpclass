@@ -13,24 +13,7 @@
 <body>
 <div class="container">
 
-    <nav class="nav navbar-expand-sm  bg-dark  justify-content-end navbar-dark mb-5 ">
-        <a class="navbar-brand" href="#">
-            <img src="honda-removebg-preview.png"alt="Bootstrap" width="30" height="24">
-          </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
-        <ul class="navbar-nav  ">
-           <li class="nav-item bg-dark" >  <a class="nav-link"  href="first_code.html">first-html</a></li>
-           <li  class="nav-item bg-dark"> <a  class="nav-link"    href="index2.html">index2</a></li>
-           <li  class="nav-item bg-dark"><a  class="nav-link" href="lists.html">list</a></li>
-           <li  class="nav-item bg-dark"><a  class="nav-link" href="contact_page.html">contact</a></li>
-        </ul>
-  </div>
-    </nav>
-
+<?php include("nav.html"); ?>
 
 <!-- second row -->
 
