@@ -1,0 +1,15 @@
+When do we use Radio buttons?
+    -Radio buttons are a common way to allows users to make asingle selection
+    form a list of options 
+
+When do we use Checkbox?
+    Is a standard, square baox for recipents to select one or more options. Unlike Radiobutton. 
+    These are commonly used for clickwrap agreements, acknowledgements and lists where multiple
+    selections are allowed
+
+How to embed Youtube Videos in your HTML Files
+    We use the iFrame element with the src attribute and the width and height attributes
+
+How do we implement a carousel
+    The carousel slideshow for cycling through a series of content, built with css 3D transforms
+    and a bit of javascript             

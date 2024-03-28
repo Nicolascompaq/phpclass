@@ -1,0 +1,153 @@
+20 properties of CSS and what they do 
+    1-Display; The display property controls the box type that an element creates.
+
+    2-Color; The text color of an element is defined by its color parameter. Controls the 
+    text color of the text.
+
+    3-Syntax; A CSS stylesheet comprises a set of rules that the web browser interprets
+    and then applies to the associated page components, such as paragraphs, headings, etc.
+
+    4-Background; A background helps to customize am elements background color, background image,etc.
+    
+    5-Fonts; One must use the correct font and style for the text to be easily readable.
+    Text font styling options in CSS include changing the font’s face, adjusting its size and 
+    boldness, managing variants and so on. Font- family, -style, -weight, -size, and -variant 
+    are the different font attributes.
+
+    6-Text; CSS offers several features that make it simple and effective to specify different 
+    text styles, including color, alignment, spacing, decoration, transformation, etc.
+
+    7-Dimension; Developers can manage an element’s width and height using CSS’s several 
+    dimension properties, including width, height, max-width, min-width, max-height, and min-height.
+
+    8-Margin; Using CSS margin properties, setting the border-spacing for a box element is possible. 
+    The margin of an element is always translucent, independent of the backdrop color.
+
+    9-Lists; CSS offers many attributes for styling and formatting the most popular ordered and 
+    unordered lists. People can usually control the marker’s form or look using these list attributes. 
+
+    10-Links; A website cannot function without connections, often known as hyperlinks. It makes it 
+    possible for users to traverse the website. Appropriately designing the links is a crucial 
+    component of creating a user-friendly website.
+
+    11-Layers; Because text, graphics, and other elements are arranged on the page without 
+    touching one another, HTML pages are regarded as two-dimensional. Boxes may be stacked 
+    horizontally, in vertical directions, and along the z-axis.
+
+    12-Gradients; One can speed up downloads and use less bandwidth by utilizing gradients. 
+    The output will render much faster because the browser generates it, and gradient-containing 
+    items can be scaled up or down to any degree without losing quality.
+
+    13-Outline; Developers can specify a box-shaped outline region around an element using its 
+    outline settings. A line sketched just outside the elements’ borders is known as an outline. 
+    The outline indicates focus or active states for elements like buttons, form fields, etc.
+
+    14-Filters; The CSS filter property, which accepts one or more filter functions in the order
+    specified, can be used to apply the filter effects to the element. Developers can use it to 
+    implement visual effects like blur, brightness or contrast balance, color saturation, etc.
+
+    15-Units; Absolute units, like pixels, points, and so forth, or relative units, can measure 
+    length. For non-zero values, CSS units must be specified because there is no default unit. 
+    A unit that is absent or ignored would be regarded as an error.
+
+    16-Opacity; Opacity was present long before it was included in the CSS version 3 specs. 
+    Older browsers, however, have various settings for opacity or transparency. The range 
+    for the opacity attribute is 0.0 to 1.0. Using CSS opacity, developers may also create 
+    translucent pictures.
+
+    17-Validation; Website validation is the process of making sure a website’s pages 
+    adhere to the formal standards and rules established by the World Wide Web Consortium 
+    (W3C). Verification is crucial. It will ensure that all web browsers, search engines, etc.
+    interpret your web pages the same way.
+
+    18-Position; A good layout design requires that elements be placed correctly on the web pages. 
+    You may position items using a variety of CSS techniques. You can read about these placement 
+    techniques individually in the following section.
+
+    19-Padding; You may control the distance between an element’s content and border using the 
+    padding properties. The background color of the element has an impact on the padding. For 
+    instance, if you set a background color for an element, the padding area will show that color.
+
+    20-Tables; Tabular data, such as financial reports fetched from a database management system 
+    (DBMS), are often displayed in tables. However, when you construct an HTML table without any 
+    styles or attributes, browsers show them without a border. You can significantly enhance the 
+    aesthetic of your tables with CSS.
+
+20 elements of HTML of HTML elements and what they do
+    1-<!DOCTYPE> Defines the document type
+
+    2<html> Defines an HTML document  
+
+    3-<head> Contains metadata/information for the document 
+
+    4-<title> Defines a title for the document
+
+    5-<body> Defines the document's body
+
+    6-<h1> to <h6> Defines HTML headings
+
+    7-<p> Defines a paragraph
+
+    8-<br> Inserts a single line break
+
+    9-<hr> Defines a thematic change in the content
+
+    10-<!--...--> Defines a comment
+
+    11-<s> Element represents content that is no longer relevant, accurate, or applicable.
+
+    12-<ins> and <del> Elements work together to describe insertions and deletions to an HTML document.
+
+    13-<q> Element Designating short, inline, quoted material, the <q> element includes both the necessary 
+    punctuation — quotation marks — and a cite attribute for including a URL.
+
+    14-<abbr> and <dfn> Elements HTML’s abbreviation and definition elements often are used together to 
+    introduce an abbreviation or acronym, particularly when that abbreviation or acronym is included in 
+    a relatively complex, long, or technical document.
+
+    15-The <code> Element is used to indicate sections of computer code that should not be executed, 
+    but rather should be rendered as readable code.
+
+    16-The <samp> Element Used to identify sample output from a computer system, application, 
+    or similar, the contents of a <samp> tag should be a quote from some computer interaction.
+
+    17-The <kbd> Element f a designer or developer wanted to communicate what a user should 
+    or did type during a keyboard interaction, the <kbd> element would clearly (semantically) 
+    identify that content.
+
+    18-The <var> element represents a variable in the context of either mathematics or computer programming.
+
+    19-The <data> Element This HTML element, along with the value attribute, associates some content 
+    with a machine-readable translation of that content’s meaning. In effect, the <data> element is i
+    ntended to be used in conjunction with a script.
+
+    20-The <time> Element Similar to the <data> element, the <time> element can be used to pass 
+    machine-readable date and time information along with its content.
+
+How do we use bootstarp in HTML
+    There are three methods of using bootstrap and these include;
+        1-Using Bootstrap CDN
+            CSS-Simply copy this stylesheet link to the <head> of your HTML file
+            JS-The JavaScript functionalities of some components like dropdowns, tabs, etc depend on jQuery and popper.js.
+            So, include jQuery and popper.js in the following order right before loading the bootstrap JavaScript file 
+            for proper functioning.
+        2-Downloading the files locally
+            Instead of using CDN, you can download the files locally to your project folder 
+            from https://getbootstrap.com/docs/4.3/getting-started/download/ Once you download 
+            the file, you can include the bootstrap.min.css file the <head> and bootstrap.min.js in <body>. 
+            Even if you are using the downloaded bootstrap file, you have to include jquery.min.js and popper.min.js 
+            before loading bootstrap.min.js 
+        3-Using package managers
+            Bootstrap can be easily pulled into any project using package managers such as ‘npm’, ‘yarn’ etc. 
+            Since npm is the most popular package manager used by front-end developers, we are going ahead 
+            with the npm command for installing bootstrap.       
+
+
+
+
+
+
+
+
+
+

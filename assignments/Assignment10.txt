@@ -1,0 +1,18 @@
+PHP Function Parameters:
+    A function in PHP may be defined to accept one or more parameters. 
+    Function parameters are a comma-separated list of expressions inside 
+    the parenthesis in front of the function name while defining a function. 
+    A parameter may be of any scalar type (number, string or Boolean), an array, 
+    an object, or even another function.
+
+PHP Call by value:
+    By default, PHP uses the "call by value" mechanism for passing arguments to 
+    a function. When a function is called, the values of actual arguments are 
+    copied to the formal arguments of the function’s definition.  
+
+PHP Returning Values:
+    A PHP function can have an optional return statement as the last statement 
+    in its function body. Most of the built-in functions in PHP return a certain value. 
+    For example the strlen() function returns the length of a string. Similarly, a user 
+    defined function can also return a certain value.     
+

@@ -1,8 +1,27 @@
-Question1:
-Difference between webpage and website.
+Difference btn a webpage and a website
+    A web page is a single document on the web using a Unique URL (Uniform Resource Locater),while a website
+    is a collection of mulitiple web pages in which information on a related topic or another subject is linked
+    together under the same domain address.
 
-Question2:
-Difference between frontend and backend.(tools for backend and frontend)
+Difference btn Front-end Vs Back-end development and there tools
+    The Front-end is the development of the graphical user interface of a website through the use of HTML,
+    CSS and javascript so users can interact with that website, while Back-end development refers to the process
+    of building and maintaining the server-side logicand functionality of a website or web application. It 
+    involves creating and Managing the parts of a software system that are responsible for proccessing data,
+    managing user requests, intracting with databases, and performing other server-side operations 
 
-Question3:
-what is git used for and Differences between git and github.
+Front-end and Back-end Development tools
+    Front-end tools                       Back-end tools
+        -   HTML                                -   Jave
+        -   CSS                                 -   Ruby
+        -   javascript                          -   Python
+
+What is Git used for and what is the Difference btn Git and Github
+    Git is a DevOps tool used for source code management. It is a free and open-source version control system
+    used to handle small to very large projects efficiently. Git is also used to tracking changes in the source
+    code, enabling multiple developers to work together on non-linear development.
+
+Difference btn Git and Github 
+    Git is a version control system that allows developers to track changes in their code, while Github is a 
+    web base hosting service for Git repositories. In simple terms you can not use Git without Github, but 
+    cannot use Github without Git            

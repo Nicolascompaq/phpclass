@@ -1,8 +1,8 @@
-Question1:
-    list 20 properties of CSS and what they do?
-
-Question2:
-   list 20 html elements and what they do?
-
-Question3:
-   how to we use bootstrap in html?
+How to design a form in HTML
+   - By using the form tag <form></form> create a form element 
+   - And in the form element by using attributes like input to
+   create the different fileds ie First Name and Second Name
+   - Also by using other attributes like lable to indicate the specific 
+   fields your puting the information in 
+   - To add a button element you ust the button tag <button></button>
+   and add content of your chossing to create the button in HTML  

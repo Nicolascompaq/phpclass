@@ -23,15 +23,13 @@ function hello(){
 }
 hello();
 ?>
-<p id="pipo">
 
-</p>
 <?php 
-
-$a = (int)readline('enter');
-
-echo $a;
+function great($hello){
+    echo ("welcome :". $hello);
+}
+echo ("enter your name" /n);
+$hello = fgets(STDIN);
+great($hello)
 ?>
 
-</body>
-</html>

@@ -1,0 +1,101 @@
+What each of these elements do with examples
+    HTML Formatting- helps us in changes in text like to make text bold, italicized, underlined,
+    strike text, monospaced text, superscript text, subscript text, inserted text, deleted text,
+    lager text, smaller text, grouping content
+
+    HTML Phrase Tags- The phrase tags have been desicolgned for specific purposes, though they 
+    are displayed in a similar way as other basic tags like <b>, <i>, <pre>, and <tt>, you have 
+    seen in previous chapter.
+
+    HTML Meta Tags- HTML lets you specify metadata - additional important information about a 
+    document in a variety of ways. The META elements can be used to include name/value pairs 
+    describing properties of the HTML document, such as author, expiry date, a list of keywords, 
+    document author etc.
+
+    HTML Comments- Comment is a piece of code which is ignored by any web browser. It is a good 
+    practice to add comments into your HTML code, especially in complex documents, to indicate 
+    sections of a document, and any other notes to anyone looking at the code. Comments help you 
+    and others understand your code and increases code readability.
+
+    HTML Images- Images are very important to beautify as well as to depict many complex concepts 
+    in simple way on your web page. This tutorial will take you through simple steps to use images 
+    in your web pages.
+
+    HTML Tables- The HTML tables allow web authors to arrange data like text, images, links, other 
+    tables, etc. into rows and columns of cells.The HTML tables are created using the <table> tag 
+    in which the <tr> tag is used to create table rows and <td> tag is used to create data cells. 
+    The elements under <td> are regular and left aligned by default.
+
+    HTML Lists- HTML offers web authors three ways for specifying lists of information. All lists 
+    must contain one or more list elements. Lists may contain.
+
+    <ul> − An unordered list. This will list items using plain bullets.
+
+    <ol> − An ordered list. This will use different schemes of numbers to list your items.
+
+    <dl> − A definition list. This arranges your items in the same way as they are arranged in 
+    a dictionary. 
+
+    HTML Text Links- A webpage can contain various links that take you directly to other pages 
+    and even specific parts of a given page. These links are known as hyperlinks.
+
+    HTML Image Links- We have seen how to create hypertext link using text and we also learnt
+     how to use images in our webpages. Now, we will learn how to use images to create hyperlinks.
+
+     HTML Email Links- It is not difficult to put an HTML email link on your webpage but it can 
+     cause unnecessary spamming problem for your email account. There are people, who can run programs 
+     to harvest these types of emails and later use them for spamming in various ways.
+
+     HTML Frames- HTML frames are used to divide your browser window into multiple sections where each 
+     section can load a separate HTML document. A collection of frames in the browser window is known 
+     as a frameset. The window is divided into frames in a similar way the tables are organized: into 
+     rows and columns.
+
+     HTML iFrames- You can define an inline frame with HTML tag <iframe>. The <iframe> tag is not 
+     somehow related to <frameset> tag, instead, it can appear anywhere in your document. The <iframe> 
+     tag defines a rectangular region within the document in which the browser can display a separate 
+     document, including scrollbars and borders. An inline frame is used to embed another document 
+     within the current HTML document.
+
+     HTML Blocks- All the HTML elements can be categorized into two categories (a) Block Level 
+     Elements (b)Inline Elements.
+
+     HTML Backgrounds- By default, your webpage background is white in color. You may not like it, 
+     but no worries. HTML provides you following two good ways to decorate your webpage background.
+
+     HTML Colors- Colors are very important to give a good look and feel to your website. 
+     You can specify colors on page level using <body> tag or you can set colors for individual 
+     tags using bgcolor attribute.
+
+     HTML Fonts- Colors are very important to give a good look and feel to your website. 
+     You can specify colors on page level using <body> tag or you can set colors for 
+     individual tags using bgcolor attribute.
+
+     HTML Forms- HTML Forms are required, when you want to collect some data from the site visitor. 
+     For example, during user registration you would like to collect information such as name, email 
+     address, credit card, etc.
+
+     HTML Embed Multimedia- Sometimes you need to add music or video into your web page. 
+     The easiest way to add video or sound to your web site is to include the special 
+     HTML tag called <embed>. This tag causes the browser itself to include controls 
+     for the multimedia automatically provided browser supports <embed> tag and given media type.
+
+     HTML Marquees- An HTML marquee is a scrolling piece of text displayed either horizontally 
+     across or vertically down your webpage depending on the settings. This is created by using 
+     HTML <marquees> tag.
+
+     HTML Header- The header helps in naming the html document
+
+     HTML Style sheets- Cascading Style Sheets (CSS) provide easy and effective alternatives 
+     to specify various attributes for the HTML tags. Using CSS, you can specify a number of 
+     style properties for a given HTML element. Each property has a name and a value, 
+     separated by a colon (:). Each property declaration is separated by a semi-colon (;).
+
+     HTML JavaScript- A script is a small piece of program that can add interactivity to 
+     your website. For example, a script could generate a pop-up alert box message, or 
+     provide a dropdown menu. This script could be written using JavaScript or VBScript.
+
+     HTML Layouts- A webpage layout is very important to give better look to your website. 
+     It takes considerable time to design a website's layout with great look and feel.
+
+

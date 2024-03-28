@@ -1,0 +1,32 @@
+How do we declare variables in php 
+    In PHP, a variable is declared using the $ sign followed by the variable name.
+
+    -The value of a variable is the value of its most recent assignment.
+
+    -Variables are assigned with the = operator, with the variable on 
+    the left-hand side and the expression to be evaluated on the right.
+
+    -Variables can but do not need to be declared before assignment.
+
+    -Variables in PHP do not have intrinsic types - a variable does 
+    not know in advance whether it will be used to store a number or 
+    a string of characters.
+
+    -Variables used before they are assigned have default values.
+
+    -PHP does a good job of automatically converting types from one to 
+    another when necessary.
+
+List 3 types of writting variables in php
+    -Local Variables
+    -Global Variables
+    -Static Variables
+
+    
+List 4 datatypes used in php
+    -NULL
+    -Resource
+    -String
+    -Integer
+    -Boolean
+    

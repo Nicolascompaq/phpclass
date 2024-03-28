@@ -1,0 +1,7 @@
+list five SQL Queries that we perform a MYSGL database
+
+-SELECT - extracts data from a database
+-UPDATE - updates data in a database
+-DELETE - deletes data from a database
+-INSERT INTO - inserts new data into a database
+-CREATE DATABASE - creates a new database

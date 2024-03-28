@@ -1,0 +1,23 @@
+1. a) Write a function that includes;
+            -Local variables
+            -Parameters
+            -and should be called
+    b) Seconf function should return values in function the first function
+        using global variables.
+
+
+
+2. a) List variables and what they do
+
+-db.host: This variable likely stores the hostname or IP address of the MySQL database server. 
+It specifies the location of the database server where your PHP script will connect to.
+
+-db.pass: This variable likely stores the password used to authenticate and connect to the MySQL 
+database server. It represents the password required for accessing the database.
+
+-db.root: This variable could represent the username used to authenticate and connect to the 
+MySQL database server. The username "root" is commonly used for administrative access to MySQL 
+databases, but it's not recommended for production environments due to security concerns.
+
+-db.name: This variable likely stores the name of the MySQL database that your PHP script will 
+interact with. It specifies the database name where your application's data is stored.

@@ -1,0 +1,8 @@
+Design a table in HTML
+    - To design a table am going to use the table tags, table tag (<table></table>)
+    - To add a row in the table am going to use the <tr></tr> tags which is table row
+    - Am going to add six rows, first row for (Number,First Name,Second Name and Email)
+    - Then the five row-colum for numbers (1,2,3,4,5) respectivily
+    - Then am going to use <th></th> tags for table header to give each colum its header names respectivily
+    - Then using attributes i gave each cell a background color and add a boder attribute to the table element
+    - Here is a link to my Table <a href="Assignment4practical.html">My Table</a>

@@ -1,8 +1,46 @@
-Question1:
-what is an html element,list 10 html elements.
+What is an HTML element?
+    An HTML element is a component of an HTML document that tells a web browser how to structure and interpret
+    a part of the HTML document 
 
-Question2:
-what is an html attribute, list 10 html attributes.
+List 10 HTML elements 
+    1-Body
+    2-Title
+    3-Head
+    4-Section
+    5-Meta
+    6-Link
+    7-Footer
+    8-Paragraph
+    9-Scripting
+    10-HTML
+What is an HTML attribute?
+    An HTML attribute is a piece of markup language used to adjust the behaviour or display of an HTML 
+    element
 
-Question3:
-what is a tag .[list 10 html tags]
+List 10 HTML attributes
+    1-id
+    2-href
+    3-width and height
+    4-style
+    5-src
+    6-lang
+    7-align
+    8-translate
+    9-alt
+    10-title    
+
+What is an HTML tag?
+    An HTML tag is a piece of markup language used to indicate the beginning anf the end of an HTML 
+    element
+
+List 10 HTML tags
+    1-<p></p> Paragraph tag
+    2-<h1></h1> Heading tag 
+    3-<b></b> Bold tag
+    4-<i></i> Italic tag
+    5-<u></u> Underline tag
+    6-<button></button> Button tag
+    7-<Body></Body> Body tag
+    8-<center></center> Center align tag
+    9-<div></div> Divide tag
+    10-<Footer></Footer> Footer tag          

@@ -1,0 +1,7 @@
+Create a database for your project.
+ a) Should have: I) five fields 
+                II) id with a primary keyboard datatype integer
+                III) varchar datatype
+                IV) with length of 100
+
+b) Create a script connecting the database
